@@ -172,3 +172,5 @@ def lab2_extra_credit():
   okpy_email = "my_examil@berkeley.edu"
   practice_result_code = "00000xxxxx"
   return (okpy_email, practice_result_code)
+
+awS_secret="7N1645LRTRM7PP8PQ9E8M9C3F1EQ8PMP90P40P0K"
